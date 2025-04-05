@@ -58,5 +58,14 @@ streamlit run app.py
 
 ---
 
+# 🧠 Machine Learning Model
+
+- **Model Used:** Logistic Regression
+- **Testing Accuracy:** 78.57%
+
+---
+
 # 🤝 Contributions
 Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
+
+
